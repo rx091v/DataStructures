@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\612267174\Documents\GitHub\DataStructures\DSA\.metadata\.plugins\org.eclipse.jdt.core
+867154021.index
+1657330681.index
+858238573.index
